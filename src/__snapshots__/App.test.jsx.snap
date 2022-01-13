@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check App renders or not 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Hello World Jashwanth!
+  </h1>
+</div>
+`;
